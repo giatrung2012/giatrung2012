@@ -37,6 +37,6 @@
 </p>
 
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@giatrung2012&layout=compact&theme=dracula&range=last_7_days" />
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@giatrung2012&layout=compact&theme=dracula&range=last_7_days&line_height=0" />
 </p> 
 

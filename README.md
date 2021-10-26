@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -33,10 +34,14 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=giatrung2012&show_icons=true&theme=dracula&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=giatrung2012&layout=compact&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=giatrung2012&theme=dracula">
 </p>
 
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@giatrung2012&layout=compact&theme=dracula&range=last_7_days&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=giatrung2012&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" />
+</p>
+ 
+<p align = "center">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@giatrung2012&layout=compact&theme=dracula&range=last_7_days&line_height=0&hide=json,text,other" />
 </p> 
 

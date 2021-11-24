@@ -3,7 +3,7 @@
 </p align="center">
 
 <p align="center">
-  I'm a 2rd year student pursuing in Software Engineering from Thu Dau Mot University. I am a person who likes to explore, research new technologies, applications and custom them. I'm deep into Web Development.
+  I'm a 2nd-year student pursuing Software Engineering from Thu Dau Mot University. I am a person who likes to explore, research new technologies, applications and custom them. I'm deep into Web Development.
 </p>
  
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>

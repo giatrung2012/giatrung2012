@@ -24,7 +24,7 @@
 
 <p align="center">
  
-<a href="mailto:trungrappar2002@gmail.com">
+<a href="mailto:trunghsg2012@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:trunghsg2012@gmail.com"/>
 </a>
 <a href="https://twitter.com/giatrung2012">
